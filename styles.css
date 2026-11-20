@@ -8,6 +8,7 @@ img { max-width: 100%; height: auto; }
   --accent: #1d4ed8;
   --accent-soft: #eaf0fd;
 }
+#prices li { color: #0b6e4f; font-weight: 700; }
 
 /* Your styles start here. */
 input, select, button { max-width: 100%; }
