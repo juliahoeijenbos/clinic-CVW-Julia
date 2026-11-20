@@ -8,6 +8,7 @@ img { max-width: 100%; height: auto; }
   --accent: #1d4ed8;
   --accent-soft: #eaf0fd;
 }
+#prices li { color: #0b6e4f; font-weight: 700; }
 
 
 
@@ -15,6 +16,3 @@ img { max-width: 100%; height: auto; }
 input, select, button { max-width: 100%; }
 nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
 header, main, footer { padding: 0 1rem; }
-
-id= "prices"
-#prices li { color: #0b6e4f; font-weight: 700; }
